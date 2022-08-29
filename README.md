@@ -32,7 +32,7 @@ SlowSwap: The only on-chain MEV prevention solution using VDF (verifiable delay 
 
 LiquidBit: NFT marketplace aggregator (similar to gem.xyz) and derivatives (futures, option, and fractional) for professional traders and institutions. ([website](http://liquidbit.xyz/))
 
-EVM Wars: Cross-chain battle royal NFT game and omni-chain NFT standard built using Layer Zero’s cross-chain messaging protocol. ([demo](https://www.loom.com/share/a9aaa9a1947f426bba7e2665f31004a4)) ([deck](https://docs.google.com/presentation/d/11uEmXt3FNiTrr5a1M4f48CFepxBphRFZxIneAk1xUv8/edit#slide=id.g13c04f8c253_0_20))
+EVM Wars: omni-chain ERC721 NFT standard and cross-chain battle royal NFT game across Polygon, Ethereum, Avalanche, Fantom and Binance Chain, built using Layer Zero’s cross-chain messaging protocol. ([website](https:/evmwars.com)) ([demo](https://www.loom.com/share/a9aaa9a1947f426bba7e2665f31004a4)) ([deck](https://docs.google.com/presentation/d/11uEmXt3FNiTrr5a1M4f48CFepxBphRFZxIneAk1xUv8/edit#slide=id.g13c04f8c253_0_20))
 
 Starknet Naming Service: The equivalent of ENS (Ethereum Name Service) for Starknet. Starknet Name Service domains are secure domain names for the decentralized world. ([demo](https://www.loom.com/share/d18d5a8fe37445ed8cc861bd7c675078)) ([github](https://github.com/Starkware-Naming-Service/cairo-contracts))
 
