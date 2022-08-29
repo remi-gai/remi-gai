@@ -12,13 +12,11 @@ I am currently a venture-backed web3 founder fellow part of [South Park Commons]
 
 Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 
-<img align="right" src="https://lh4.googleusercontent.com/qfoTUg9_Geq1tkRy3e0xj7nZLiJghBB_kNt4BIMc5YTolXFnGLSLK0oj5QNxQLSkohPscnwYsdyYsctIzzx5C_qh_HBWLAd-5vdbntyMlPI3U2neY5Q3aGGR_UzR5_2JyPhtqcCd" alt="dotsama" width="350"/>
-
 ## About me
 
 - 🌱 I’m currently exploring and building in the web3 space.
-- 👯 I’m looking to collaborate on **new and exciting projects**
-- 💬 Ask me about **Flutter, Substrate, Rust, [Kusama](https://kusama.network/) & [Polkadot](https://polkadot.network/) and blockchain technology** 
+- 👯 I’m looking to collaborate on **new and exciting projects or hackathons**
+- 💬 Ask me about **Ethereum, Starknet, Polkadot, Zero-Knowledge and Layer Zero ecosystem/tech** 
 - 📫 How to reach me: remigai93@gmail.com
 
 <br>
@@ -26,7 +24,8 @@ Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 
 ## 🔨Crypto Projects 👷
 Parallel Finance: Suite of DeFi protocols (AMM, money market and liquid staking) built on Polkadot, backed by Polychain, Sequoia, Founders Fund, Coinbase Ventures, and more. We originally started from a Polkadot Hackathon in 2021 during which we won third place. ([website](parallel.fi))
-SlowSwap: The only on-chain MEV prevention solution using VDF (verifiable delay function). Won finalist in DeFi track at EthDenver 2022 Hackathon. (website) (demo) (deck) (github)
+
+SlowSwap: The only on-chain MEV prevention solution using VDF (verifiable delay function). Won finalist in DeFi track at EthDenver 2022 Hackathon. ([website](https://slowswap.io/)) ([demo](https://www.loom.com/share/4c0c61677a454b2caf3d5c8dbcc8f62d)) ([deck](https://docs.google.com/presentation/d/1_l_fTgkCr1M5mdyuOgL47yFDxU7thssU_jgJY9An3B4/edit#slide=id.g115fe3e9780_0_0)) ([github](https://github.com/SlowSwap))
 
 Starknet Recovery Service: The first on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOA), powered by storage proofs on StarkNet. Won first place at the Starknet House Hackathon in 2022. (demo) (deck) (github)
 
