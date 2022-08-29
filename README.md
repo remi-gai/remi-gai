@@ -17,7 +17,7 @@ Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 ## About me
 
 - 🌱 I’m currently exploring and building in the web3 space.
-- 🚀 I’m looking to collaborate on **new and exciting projects or hackathons**.
+- 🚀 I’m looking to collaborate on **hackathons and exciting projects in DeFi, web3 consumer or zero-knowledge**.
 - 💬 Ask me about **Ethereum, Starknet, Polkadot, Zero-Knowledge, Arweave and Layer Zero ecosystem/tech**.
 - 📫 How to reach me: remigai93@gmail.com
 
