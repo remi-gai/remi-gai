@@ -8,7 +8,7 @@
 
 # Hi there 👋
 
-I am currently a venture-backed web3 founder fellow part of [South Park Commons](https://www.southparkcommons.com/), with a background in engineering (Google, Microsoft), entrepreneurship (founding member of [Parallel Finance](https://parallel.fi), product management (web3 UX lead at co-founded blockchain studio), and venture capital ([8 decimal capital](https://www.8dcapital.com/)).
+I am currently a venture-backed web3 founder fellow part of [South Park Commons](https://www.southparkcommons.com/), with a background in engineering (Google, Microsoft), entrepreneurship (founding member of [Parallel Finance](https://parallel.fi)), product management (web3 UX lead at co-founded blockchain studio), and venture capital ([8 decimal capital](https://www.8dcapital.com/)).
 
 Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 
