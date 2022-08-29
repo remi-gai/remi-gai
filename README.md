@@ -15,8 +15,8 @@ Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 ## About me
 
 - 🌱 I’m currently exploring and building in the web3 space.
-- 👯 I’m looking to collaborate on **new and exciting projects or hackathons**
-- 💬 Ask me about **Ethereum, Starknet, Polkadot, Zero-Knowledge and Layer Zero ecosystem/tech** 
+- 🚀 I’m looking to collaborate on **new and exciting projects or hackathons**.
+- 💬 Ask me about **Ethereum, Starknet, Polkadot, Zero-Knowledge, Arweave and Layer Zero ecosystem/tech**.
 - 📫 How to reach me: remigai93@gmail.com
 
 <br>
@@ -27,10 +27,11 @@ Parallel Finance: Suite of DeFi protocols (AMM, money market and liquid staking)
 
 SlowSwap: The only on-chain MEV prevention solution using VDF (verifiable delay function). Won finalist in DeFi track at EthDenver 2022 Hackathon. ([website](https://slowswap.io/)) ([demo](https://www.loom.com/share/4c0c61677a454b2caf3d5c8dbcc8f62d)) ([deck](https://docs.google.com/presentation/d/1_l_fTgkCr1M5mdyuOgL47yFDxU7thssU_jgJY9An3B4/edit#slide=id.g115fe3e9780_0_0)) ([github](https://github.com/SlowSwap))
 
-Starknet Recovery Service: The first on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOA), powered by storage proofs on StarkNet. Won first place at the Starknet House Hackathon in 2022. (demo) (deck) (github)
+Starknet Recovery Service: The first on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOA), powered by storage proofs on StarkNet. Won first place at the Starknet House Hackathon in 2022. ([demo](https://www.youtube.com/watch?v=G5FvzoQhGv8&feature=youtu.be)) ([deck](https://app.pitch.com/app/presentation/09ce2e68-01a6-42e2-a195-f5e548aea711/06a878ce-878b-4a1f-9be1-9e125372f4f4/000db933-2625-425b-a1ba-3743a395967f)) ([github](https://github.com/Starknet-Recovery-Service))
 
-Starknet Naming Service: The equivalent of ENS (Ethereum Name Service) for Starknet. Starknet Name Service domains are secure domain names for the decentralized world. (demo) (github)
+LiquidBit: NFT marketplace aggregator (similar to gem.xyz) and derivatives (futures, option, and fractional) for professional traders and institutions. ([website](http://liquidbit.xyz/))
 
-EVM Wars: Cross-chain battle royal NFT game and omni-chain NFT standard built using Layer Zero’s cross-chain messaging protocol. (demo) (deck)
+EVM Wars: Cross-chain battle royal NFT game and omni-chain NFT standard built using Layer Zero’s cross-chain messaging protocol. ([demo](https://www.loom.com/share/a9aaa9a1947f426bba7e2665f31004a4)) ([deck](https://docs.google.com/presentation/d/11uEmXt3FNiTrr5a1M4f48CFepxBphRFZxIneAk1xUv8/edit#slide=id.g13c04f8c253_0_20))
 
-LiquidBit: NFT marketplace aggregator (similar to gem.xyz) and derivatives (futures, option, and fractional) for professional traders and institutions. (website)
+Starknet Naming Service: The equivalent of ENS (Ethereum Name Service) for Starknet. Starknet Name Service domains are secure domain names for the decentralized world. ([demo](https://www.loom.com/share/d18d5a8fe37445ed8cc861bd7c675078)) ([github](https://github.com/Starkware-Naming-Service/cairo-contracts))
+
