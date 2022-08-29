@@ -24,7 +24,7 @@ Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 <br>
 
 ## 🔨Crypto Projects 👷
-Parallel Finance: Suite of DeFi protocols (AMM, money market and liquid staking) built on Polkadot, backed by Polychain, Sequoia, Founders Fund, Coinbase Ventures, and more. We originally started from a Polkadot Hackathon in 2021 during which we won third place. ([website](parallel.fi))
+Parallel Finance: Suite of DeFi protocols (AMM, money market and liquid staking) built on Polkadot, backed by Polychain, Sequoia, Founders Fund, Coinbase Ventures, and more. We originally started from a Polkadot Hackathon in 2021 during which we won third place. ([website](https://parallel.fi))
 
 SlowSwap: The only on-chain MEV prevention solution using VDF (verifiable delay function). Won finalist in DeFi track at EthDenver 2022 Hackathon. ([website](https://slowswap.io/)) ([demo](https://www.loom.com/share/4c0c61677a454b2caf3d5c8dbcc8f62d)) ([deck](https://docs.google.com/presentation/d/1_l_fTgkCr1M5mdyuOgL47yFDxU7thssU_jgJY9An3B4/edit#slide=id.g115fe3e9780_0_0)) ([github](https://github.com/SlowSwap))
 
