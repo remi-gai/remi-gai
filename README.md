@@ -17,7 +17,7 @@ Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 ## About me
 
 - 🌱 Currently exploring and building in the web3 space.
-- 🚀 Looking to collaborate on **hackathons and interesting projects in DeFi, web3 consumer, cross-chain or zero-knowledge. Feel free to DM me on Telegram: @doreami93**.
+- 🚀 Looking to collaborate on **hackathons and interesting projects in DeFi, web3 consumer, cross-chain or zero-knowledge app. Feel free to DM me on Telegram: @doreami93**.
 - 💬 Ask me about **Ethereum, Starknet, Polkadot, Zero-Knowledge, Arweave and Layer Zero ecosystem/tech**.
 - 📫 How to reach me: remigai93@gmail.com
 
