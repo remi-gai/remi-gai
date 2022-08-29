@@ -1,14 +1,14 @@
-<a href="https://twitter.com/martin__jensen" rel="nofollow"> <img align="right"
-            src="img/twitter_logo.svg"
+<a href="https://twitter.com/remi_gai" rel="nofollow"> <img align="right"
+            src="twitter_logo.svg"
             alt="Twitter" height="36px" style="max-width: 100%;"> </a>
-<a href="https://www.linkedin.com/in/martinloesethjensen/" rel="nofollow"> <img align="right"
-            src="img/linkedin_logo.svg"
+<a href="https://www.linkedin.com/in/remigai/" rel="nofollow"> <img align="right"
+            src="linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
 
 # Hi there 👋
 
-I am currently a venture-backed web3 founder fellow part of [South Park Commons](https://soliditylang.org/), with a background in engineering (Google, Microsoft), entrepreneurship (founding member of [Parallel Finance](https://parallel.fi), product management (web3 UX lead at co-founded blockchain studio), and venture capital (8 decimal capital).
+I am currently a venture-backed web3 founder fellow part of [South Park Commons](https://www.southparkcommons.com/), with a background in engineering (Google, Microsoft), entrepreneurship (founding member of [Parallel Finance](https://parallel.fi), product management (web3 UX lead at co-founded blockchain studio), and venture capital ([8 decimal capital](https://www.8dcapital.com/)).
 
 Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 
