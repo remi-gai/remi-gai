@@ -12,6 +12,8 @@ I am currently a venture-backed web3 founder fellow part of [South Park Commons]
 
 Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 
+<br>
+
 ## About me
 
 - 🌱 I’m currently exploring and building in the web3 space.
@@ -19,7 +21,6 @@ Fun fact: I am a 🇺🇸🇫🇷🇨🇳 native speaker
 - 💬 Ask me about **Ethereum, Starknet, Polkadot, Zero-Knowledge, Arweave and Layer Zero ecosystem/tech**.
 - 📫 How to reach me: remigai93@gmail.com
 
-<br>
 <br>
 
 ## 🔨Crypto Projects 👷
